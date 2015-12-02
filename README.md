@@ -62,3 +62,5 @@ Bonus: Use a loop with another loop to return a string for each key value pair b
 "The population of miami is 419777"
 "The website of miami is http://www.miamigov.com"
 ```
+
+<a href='https://learn.co/lessons/cssi-4.10-python-stretch-lists-dictionaries-nested-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
